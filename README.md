@@ -60,3 +60,10 @@ AL10-DET obsahuje snímky povrchu extrudovaných hliníkových profilov získan�
 
 Dosiahnuté výsledky:
 - Szépvölgyi, Porovnanie detektorov na priemyselných datasetov, Projekt HNS, 2025, [Vysledky_HNS_Projekt_Szépvölgyi](document/Prezentacia_Szepvolgyi_Porovnanie_detektorov.pdf)
+
+Literatúra:
+- S. Kajan, M. Trebuľa, F. Duchoň, Z. Kovaríková, M. Kováč and J. Pavlovičová, "Weld Defect Recognition and Detection from Video Using Deep Learning Methods," 2025 Cybernetics & Informatics (K&I), Mikulov na Morave, Czech Republic, 2025, pp. 1-5, doi: 10.1109/KI64036.2025.10916449. [Kajan_kol_Weld_Defect_Recognition](https://ieeexplore.ieee.org/document/10916449)
+
+- Körösi L., Kajan S., Berki M., Skirkanič J., Lúčny M., Melichar A., Mihálik J., From Detection to Action: Implementing Deep Learning Inference in PLC Systems via Docker Services,
+IFAC-PapersOnLine, Volume 58, Issue 9, 2024, [Korosi_kol_Detection_Action](https://doi.org/10.1016/j.ifacol.2024.07.365)
+- 
